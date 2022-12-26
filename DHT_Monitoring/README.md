@@ -1,5 +1,5 @@
 ***What is this?***
-Here is how reading data from ***dht11*** (Temperature & Humidity) then, send these values to ***Google Sheet*** for storing and easier analysing in ***Mulberry silk smart farm house***
+Here is how reading data from ***dht11*** (Temperature & Humidity) then, send these values to ***Google Sheet*** for storing and easier analysing in ***Smart Mulberry silk farm house***
 
 
 <hr>
