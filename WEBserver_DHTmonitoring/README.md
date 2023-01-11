@@ -16,5 +16,7 @@ Sample:
 - ***Google Sheet Auto Data Storing***<br>
 Sample: 
 
-<img src="![image](https://user-images.githubusercontent.com/83394467/211866978-eb82d6fd-6cf0-4f7d-924c-881f960a1a15.png)
-">
+<img src="https://scontent.fbkk12-1.fna.fbcdn.net/v/t1.15752-9/325057277_899372167763665_7414610991203822715_n.png?_nc_cat=108&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeEFwdVROK2LQSLv0wwezS9aIJiYnPcgWaAgmJic9yBZoGpcXx_P80SZjGRztTLiTHl5xwZp_uvFXOT8RPnxW65N&_nc_ohc=ZQkSRuN3UVkAX-yGkU7&_nc_ht=scontent.fbkk12-1.fna&oh=03_AdQikfVN_ozRmxtbdEcvRmMLScOS_fmyMLk9EquijPu58Q&oe=63E659F2"><br>
+
+***Circuit Diagram***<br>
+<img src="https://scontent.fbkk8-2.fna.fbcdn.net/v/t1.15752-9/324158202_856228552328501_6259461915970232570_n.png?_nc_cat=107&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeGlpelVDYOd4gjqqPbxKKR69XqOyvTal5b1eo7K9NqXlni4WgacsY4BojX4ASeyXJQz4tRsOEBuXk8pbxXilhkq&_nc_ohc=-4u25idYuuQAX8xUuQA&_nc_ht=scontent.fbkk8-2.fna&oh=03_AdSFrMC8WtnnLA6RQeOO3TUjQ41GCy2jvbGFNXaQk4XFJQ&oe=63E66D55">
