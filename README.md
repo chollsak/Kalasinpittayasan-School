@@ -39,9 +39,9 @@ Sample:
 <img src="https://scontent.fbkk12-1.fna.fbcdn.net/v/t1.15752-9/323100732_5710280379051400_5948429062708771341_n.png?_nc_cat=106&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeGugKyWqfLgRmlde4lARX16jU2SAeGbRMSNTZIB4ZtExBoJXrLKjZUGUhsJffxYlk-ziqqWY-JjUTQywxyugZbG&_nc_ohc=ukboG1QxskcAX83qlKo&_nc_ht=scontent.fbkk12-1.fna&oh=03_AdT40FnRouaWie4V78qulfEJunl0q4c55T4jP0mMJzkbZA&oe=63E66CF3">
 
 - ***How to work?***
-  1. Reading temperature and humidity values from the DHT11 sensor. If there is no error in reading the values, it will display the values on an LCD screen.
+  - Reading temperature and humidity values from the DHT11 sensor. If there is no error in reading the values, it will display the values on an LCD screen.
 Then it checks if the temperature value is less than or equal to 23 degrees Celsius, if so, it will turn on a relay (Heater) and an LED that indicates the heater is on. If the temperature value is greater than or equal to 27 degrees, it will turn on a relay (cooler) and an LED that indicates the cooler is on. If there is an error reading the values, it will keep trying to read new values until there is no error.
-  2. The second loop is checking if a button is pressed. If it is, it will turn on a LED light, if it is pressed again, it will turn off the LED light.
+  - The second loop is checking if a button is pressed. If it is, it will turn on a LED light, if it is pressed again, it will turn off the LED light.
 
 
 
