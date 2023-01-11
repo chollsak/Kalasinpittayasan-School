@@ -50,4 +50,4 @@ Then it checks if the temperature value is less than or equal to 23 degrees Cels
   - Checking if a button is pressed. If it is, it will turn on a LED light, if it is pressed again, it will turn off the LED light.
 
 <h1>Picture Gallery</h1>
-
+<img src="https://scontent.fbkk9-2.fna.fbcdn.net/v/t1.15752-9/322267154_848063973084902_3632468743667342700_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeFs2Xtn-fikTHmNnz0ojL5sWrjkcYt9eYNauORxi315g4S0DIjy4NgfHbFUGegFI3Moy4w9KFf5eR7F7rCSd6ia&_nc_ohc=Etx5AxpAGGQAX9xGvL1&tn=4IwdnZHn_HsDQ5r2&_nc_ht=scontent.fbkk9-2.fna&oh=03_AdSCdZrt8YjW9NRmKtedPIJ1_rLzjpjptK8lcxSeBeraoQ&oe=63E6710A">
