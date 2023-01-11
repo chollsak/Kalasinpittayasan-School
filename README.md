@@ -31,3 +31,7 @@ Sample:
 <img src="https://scontent.fbkk8-2.fna.fbcdn.net/v/t1.15752-9/322115536_537882008402935_6612989247889214440_n.png?_nc_cat=107&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeHlk3Qbz21Xim1To9zfDTS-THm8MsR_mS5MebwyxH-ZLgl8QUxKWACEmQ4AXUsdj3hIg9ot_InQT5yXx2zX6GGb&_nc_ohc=cxTihY084IcAX_tuR4U&tn=4IwdnZHn_HsDQ5r2&_nc_ht=scontent.fbkk8-2.fna&oh=03_AdR9MNeOYgmfjskYIuq7h2EcHHp4Ry-6Tf2mqjQgY4EwdA&oe=63E656E6">
 
 ***2. Automation With Arduino UNO***
+
+- ***Circuit***
+<img src="https://scontent.fbkk12-1.fna.fbcdn.net/v/t1.15752-9/323100732_5710280379051400_5948429062708771341_n.png?_nc_cat=106&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeGugKyWqfLgRmlde4lARX16jU2SAeGbRMSNTZIB4ZtExBoJXrLKjZUGUhsJffxYlk-ziqqWY-JjUTQywxyugZbG&_nc_ohc=ukboG1QxskcAX83qlKo&_nc_ht=scontent.fbkk12-1.fna&oh=03_AdT40FnRouaWie4V78qulfEJunl0q4c55T4jP0mMJzkbZA&oe=63E66CF3">
+
