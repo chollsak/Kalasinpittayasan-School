@@ -19,4 +19,4 @@ Sample:
 <img src="https://scontent.fbkk12-1.fna.fbcdn.net/v/t1.15752-9/325057277_899372167763665_7414610991203822715_n.png?_nc_cat=108&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeEFwdVROK2LQSLv0wwezS9aIJiYnPcgWaAgmJic9yBZoGpcXx_P80SZjGRztTLiTHl5xwZp_uvFXOT8RPnxW65N&_nc_ohc=ZQkSRuN3UVkAX-yGkU7&_nc_ht=scontent.fbkk12-1.fna&oh=03_AdQikfVN_ozRmxtbdEcvRmMLScOS_fmyMLk9EquijPu58Q&oe=63E659F2"><br>
 
 ***Circuit Diagram***<br>
-<img src="https://scontent.fbkk8-2.fna.fbcdn.net/v/t1.15752-9/324158202_856228552328501_6259461915970232570_n.png?_nc_cat=107&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeGlpelVDYOd4gjqqPbxKKR69XqOyvTal5b1eo7K9NqXlni4WgacsY4BojX4ASeyXJQz4tRsOEBuXk8pbxXilhkq&_nc_ohc=-4u25idYuuQAX8xUuQA&_nc_ht=scontent.fbkk8-2.fna&oh=03_AdSFrMC8WtnnLA6RQeOO3TUjQ41GCy2jvbGFNXaQk4XFJQ&oe=63E66D55">
+<img src="https://scontent.fbkk8-2.fna.fbcdn.net/v/t1.15752-9/322115536_537882008402935_6612989247889214440_n.png?_nc_cat=107&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeHlk3Qbz21Xim1To9zfDTS-THm8MsR_mS5MebwyxH-ZLgl8QUxKWACEmQ4AXUsdj3hIg9ot_InQT5yXx2zX6GGb&_nc_ohc=cxTihY084IcAX_tuR4U&tn=4IwdnZHn_HsDQ5r2&_nc_ht=scontent.fbkk8-2.fna&oh=03_AdR9MNeOYgmfjskYIuq7h2EcHHp4Ry-6Tf2mqjQgY4EwdA&oe=63E656E6">
