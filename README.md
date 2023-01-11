@@ -4,7 +4,7 @@
 ***High School Automation System Advicer and Researcher at Kalasinpittayasan School, Kalasin, Thailand***<br>
 
 - ESP8266 WebServer, Google Sheet, LINE Nofity
-<h1>What are these?</h1>
+
 Brief :These are using Node MCU ESP8266 to create WebServer and display local IP address on LCD, Display Temperature and Humidity real-time on WebServer, Notify to user every 2 hours with LINE Notify and Storing on Google Sheet<br><br>
 
 ***First step!*** <br>
