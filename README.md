@@ -1,7 +1,7 @@
 <h1>Smart IoT Silkworm House</h1>
 <hr>
 
-<h2>High School Automation System Advicer and Researcher at Kalasinpittayasan School, Kalasin, Thailand</h2>
+<h4>High School Automation System Advicer and Researcher at Kalasinpittayasan School, Kalasin, Thailand</h4>
 
 ***1. ESP8266 WebServer, Google Sheet, LINE Nofity***
 
