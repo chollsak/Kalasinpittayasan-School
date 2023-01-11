@@ -1,5 +1,11 @@
 <h1>Smart IoT Silkworm House</h1>
-High School Automation System Advicer and Researcher at Kalasinpittayasan School, Kalasin, Thailand
+High School Automation System Advicer and Researcher at Kalasinpittayasan School, Kalasin, Thailand<br>
+
+
+
+***Demo Model***
+
+<img src="https://scontent.fbkk12-1.fna.fbcdn.net/v/t1.15752-9/321655922_704859737852812_7470087231573676535_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeG1H7LGCTeJRvH_vHJnAMhbW-iI-hxzixFb6Ij6HHOLEVhn91CTjIO4hzdTAsRKT8K80yaPMHhWmjBHDvuKayEN&_nc_ohc=fpzJ89OlGV0AX848WOS&tn=4IwdnZHn_HsDQ5r2&_nc_ht=scontent.fbkk12-1.fna&oh=03_AdS9In_thRgmrjPQuui-KGswIMAQGLBAc5-6DQFZo9NmUw&oe=63E67AD5" width="400px">
 <hr>
 
 ***1. ESP8266 WebServer, Google Sheet, LINE Nofity***
@@ -13,9 +19,9 @@ User must connect to the same as WIFI as ESP8266 for using the WebServer<br>
 - ***ESP8266 WebServer Realtime Temp&Humidity***<br>
 Sample: 
 
-<img src ="https://scontent.fbkk12-1.fna.fbcdn.net/v/t1.15752-9/323544356_566543165032380_4557618639192402392_n.png?_nc_cat=101&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeHex41nJL_Lr4Jwc0ee1vgmoV7el7cowImhXt6XtyjAiU66CXmz19dwYLGks7hCY0qewPHbZCt5zRGqeP2uXBLO&_nc_ohc=-Edy4v_JqSMAX811An3&_nc_ht=scontent.fbkk12-1.fna&oh=03_AdSxu8s6AlJGbVpQPDkYgY6TawIqoduPBnPKeb_dUFqiTA&oe=63E65716" width ="800px"><br>
+<img src ="https://scontent.fbkk12-1.fna.fbcdn.net/v/t1.15752-9/323544356_566543165032380_4557618639192402392_n.png?_nc_cat=101&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeHex41nJL_Lr4Jwc0ee1vgmoV7el7cowImhXt6XtyjAiU66CXmz19dwYLGks7hCY0qewPHbZCt5zRGqeP2uXBLO&_nc_ohc=-Edy4v_JqSMAX811An3&_nc_ht=scontent.fbkk12-1.fna&oh=03_AdSxu8s6AlJGbVpQPDkYgY6TawIqoduPBnPKeb_dUFqiTA&oe=63E65716" width ="1000px"><br>
 
-<img src ="https://scontent.fbkk12-2.fna.fbcdn.net/v/t1.15752-9/322148751_5924590350937264_6916243048792791185_n.png?_nc_cat=104&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeF1lKMTHvnI3MJrc83lCIAajMNctlYjeU6Mw1y2ViN5TkO9SCqdh1OqBvtv4xEH3d0yg9Rfmmg7G3PfrkA2v5Mb&_nc_ohc=5yh-ByzI-eMAX_wyY4U&_nc_ht=scontent.fbkk12-2.fna&oh=03_AdRnB-OW4HzTOrkBvieIrQX_vP_5KeNxoy06jl2SXTM4pw&oe=63E6521D" width ="800px"><br>
+<img src ="https://scontent.fbkk12-2.fna.fbcdn.net/v/t1.15752-9/322148751_5924590350937264_6916243048792791185_n.png?_nc_cat=104&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeF1lKMTHvnI3MJrc83lCIAajMNctlYjeU6Mw1y2ViN5TkO9SCqdh1OqBvtv4xEH3d0yg9Rfmmg7G3PfrkA2v5Mb&_nc_ohc=5yh-ByzI-eMAX_wyY4U&_nc_ht=scontent.fbkk12-2.fna&oh=03_AdRnB-OW4HzTOrkBvieIrQX_vP_5KeNxoy06jl2SXTM4pw&oe=63E6521D" width ="1000px"><br>
 
 - ***LINE Notify***<br>
 Sample: 
@@ -25,9 +31,23 @@ Sample:
 - ***Google Sheet Auto Data Storing***<br>
 Sample: 
 
-<img src="https://scontent.fbkk12-1.fna.fbcdn.net/v/t1.15752-9/325057277_899372167763665_7414610991203822715_n.png?_nc_cat=108&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeEFwdVROK2LQSLv0wwezS9aIJiYnPcgWaAgmJic9yBZoGpcXx_P80SZjGRztTLiTHl5xwZp_uvFXOT8RPnxW65N&_nc_ohc=ZQkSRuN3UVkAX-yGkU7&_nc_ht=scontent.fbkk12-1.fna&oh=03_AdQikfVN_ozRmxtbdEcvRmMLScOS_fmyMLk9EquijPu58Q&oe=63E659F2"><br>
+<img src="https://scontent.fbkk12-1.fna.fbcdn.net/v/t1.15752-9/325057277_899372167763665_7414610991203822715_n.png?_nc_cat=108&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeEFwdVROK2LQSLv0wwezS9aIJiYnPcgWaAgmJic9yBZoGpcXx_P80SZjGRztTLiTHl5xwZp_uvFXOT8RPnxW65N&_nc_ohc=ZQkSRuN3UVkAX-yGkU7&_nc_ht=scontent.fbkk12-1.fna&oh=03_AdQikfVN_ozRmxtbdEcvRmMLScOS_fmyMLk9EquijPu58Q&oe=63E659F2" width ="600px"><br>
 
 - ***Circuit Diagram***<br>
 <img src="https://scontent.fbkk8-2.fna.fbcdn.net/v/t1.15752-9/322115536_537882008402935_6612989247889214440_n.png?_nc_cat=107&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeHlk3Qbz21Xim1To9zfDTS-THm8MsR_mS5MebwyxH-ZLgl8QUxKWACEmQ4AXUsdj3hIg9ot_InQT5yXx2zX6GGb&_nc_ohc=cxTihY084IcAX_tuR4U&tn=4IwdnZHn_HsDQ5r2&_nc_ht=scontent.fbkk8-2.fna&oh=03_AdR9MNeOYgmfjskYIuq7h2EcHHp4Ry-6Tf2mqjQgY4EwdA&oe=63E656E6">
 
 ***2. Automation With Arduino UNO***
+
+- ***Status Panel***
+<img src="https://scontent.fbkk12-4.fna.fbcdn.net/v/t1.15752-9/322628812_1163049577906795_8138142499824776287_n.png?_nc_cat=103&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeH9ifjYsWTbtUQuK3oOazo1yDu2vMicq2zIO7a8yJyrbCU1GEr_C6KoPOBHpP9oBwvzNnpE1gBBhlLrGtni7Qad&_nc_ohc=ub04OS1hN2cAX8uQh6I&tn=4IwdnZHn_HsDQ5r2&_nc_ht=scontent.fbkk12-4.fna&oh=03_AdQ_XW4AUHhPdBOxcg28g_rodwlXnL6AYpZli_fqlU_BvA&oe=63E65D97">
+
+- ***Circuit Diagram***
+<img src="https://scontent.fbkk12-1.fna.fbcdn.net/v/t1.15752-9/323100732_5710280379051400_5948429062708771341_n.png?_nc_cat=106&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeGugKyWqfLgRmlde4lARX16jU2SAeGbRMSNTZIB4ZtExBoJXrLKjZUGUhsJffxYlk-ziqqWY-JjUTQywxyugZbG&_nc_ohc=ukboG1QxskcAX83qlKo&_nc_ht=scontent.fbkk12-1.fna&oh=03_AdT40FnRouaWie4V78qulfEJunl0q4c55T4jP0mMJzkbZA&oe=63E66CF3">
+
+- ***How to work?***
+  - Reading temperature and humidity values from the DHT11 sensor. If there is no error in reading the values, it will display the values on an LCD screen.
+Then it checks if the temperature value is less than or equal to 23 degrees Celsius, if so, it will turn on a relay (Heater) and an LED that indicates the heater is on. If the temperature value is greater than or equal to 27 degrees, it will turn on a relay (cooler) and an LED that indicates the cooler is on. If there is an error reading the values, it will keep trying to read new values until there is no error.
+  - Checking if a button is pressed. If it is, it will turn on a LED light, if it is pressed again, it will turn off the LED light.
+
+
+
