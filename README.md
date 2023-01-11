@@ -33,7 +33,7 @@ Sample:
 ***2. Automation With Arduino UNO***
 
 - ***Status Panel***
-<img src="https://scontent.fbkk12-1.fna.fbcdn.net/v/t1.15752-9/322373706_899436091245925_5865799688540116075_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeHzsmmUVd_tCmY6i5Fawf6y2hzBgNrYg8raHMGA2tiDymW0QPGpJjwAHyRHuXo_flPTpGYts4bjPquPTW8mxqF1&_nc_ohc=NcC2aQS1jNEAX-sQIKa&tn=4IwdnZHn_HsDQ5r2&_nc_ht=scontent.fbkk12-1.fna&oh=03_AdQUQNw5TyTmQIy-8XGBBkMmnQNHibC3YOITAhW1kP5fKw&oe=63E64B6C">
+<img src="https://scontent.fbkk12-4.fna.fbcdn.net/v/t1.15752-9/322628812_1163049577906795_8138142499824776287_n.png?_nc_cat=103&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeH9ifjYsWTbtUQuK3oOazo1yDu2vMicq2zIO7a8yJyrbCU1GEr_C6KoPOBHpP9oBwvzNnpE1gBBhlLrGtni7Qad&_nc_ohc=ub04OS1hN2cAX8uQh6I&tn=4IwdnZHn_HsDQ5r2&_nc_ht=scontent.fbkk12-4.fna&oh=03_AdQ_XW4AUHhPdBOxcg28g_rodwlXnL6AYpZli_fqlU_BvA&oe=63E65D97">
 
 - ***Circuit Diagram***
 <img src="https://scontent.fbkk12-1.fna.fbcdn.net/v/t1.15752-9/323100732_5710280379051400_5948429062708771341_n.png?_nc_cat=106&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeGugKyWqfLgRmlde4lARX16jU2SAeGbRMSNTZIB4ZtExBoJXrLKjZUGUhsJffxYlk-ziqqWY-JjUTQywxyugZbG&_nc_ohc=ukboG1QxskcAX83qlKo&_nc_ht=scontent.fbkk12-1.fna&oh=03_AdT40FnRouaWie4V78qulfEJunl0q4c55T4jP0mMJzkbZA&oe=63E66CF3">
