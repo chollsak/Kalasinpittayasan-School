@@ -58,8 +58,8 @@ Then it checks if the temperature value is less than or equal to 23 degrees Cels
 
 <img src ="https://scontent.fbkk8-4.fna.fbcdn.net/v/t1.15752-9/324968795_727011102008501_970633332591124266_n.png?_nc_cat=100&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeHzmHROmz1GNnC7izjB_qKSgkPS9Sox0h6CQ9L1KjHSHiND4MUbX_46CU73ubsHVOfMqmFOfgfXO6qPCJMkh0q2&_nc_ohc=zO3Sky4UrbIAX_Eu7VD&_nc_ht=scontent.fbkk8-4.fna&oh=03_AdSCxXJ6qQTiQ9kwMrhqQIOaiW4FKxh7xxz4QEpOpwrlxw&oe=63E66C38" width = "800px">
 
-***Demo House***
-
 <img src="https://scontent.fbkk12-4.fna.fbcdn.net/v/t1.15752-9/325136864_971786480466755_774190710644215631_n.png?_nc_cat=103&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeHmIWmaABrwBGbbBneyY51ikZGLWqbC6NCRkYtapsLo0CCjsDoWRb6D6wab5TfFbiiwTVWEYJnBPRpaA9yFtlbA&_nc_ohc=NYzfKU92v9wAX-8dAHV&_nc_ht=scontent.fbkk12-4.fna&oh=03_AdSYz0YeZt6NyfMi4daWbQ0Jl-CqS8sE3l4G4_-k9UElyg&oe=63E6801D" width = "800px">
+
+***Demo House***
 
 <img src="https://scontent.fbkk12-2.fna.fbcdn.net/v/t1.15752-9/318212896_552571113256919_2875200899167798168_n.png?_nc_cat=104&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeGNtdVUYpYcrR69Skt8tCMCJ_UBGBpBB98n9QEYGkEH36Ej3bLKUh7djSIVQdlJDzYbTZ2pQU0Ryn7E_9GDHKV7&_nc_ohc=mVKMzInIy5MAX-sj3BZ&tn=4IwdnZHn_HsDQ5r2&_nc_ht=scontent.fbkk12-2.fna&oh=03_AdSkZl3s6e7BoS2oKQi4SVF0S1oe9wkK2qcqX9NOvCDg1w&oe=63EA591D" width = "800px">
