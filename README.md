@@ -66,5 +66,6 @@ Then it checks if the temperature value is less than or equal to 23 degrees Cels
 <img src = "/silkiot/demo2.jpg" width = "800px">
 
 ***How its going!***
+
 <img src="/silkiot/S__17801229_0.jpg" width = "800px">
 <img src="/silkiot/price2.jpg" width = "800px">
